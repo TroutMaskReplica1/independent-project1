@@ -1,7 +1,17 @@
 body {
   color: grey;
+  background-color: rgba(0,0,0,0.2)
 }
 .banner {
   text-align: center;
   text-shadow: 1px 1px black;
+}
+a:link {
+  color: pink;
+}
+a:visited{
+  color: salmon;
+}
+a:hover {
+  color: maroon;
 }
