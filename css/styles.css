@@ -38,8 +38,13 @@ a:hover {
   font-weight: bold;
 }
 #rd {
-  max-width: 2090px;
-  max-height: 2090px;
+  width: auto;
+  height: auto;
+  max-width: 500px;
+  max-height: 500px;
+  min-width: 500px;
+  min-height: 500px;
+  float: left;
 }
 #wel {
   width: auto;
@@ -52,4 +57,11 @@ a:hover {
  padding: 10px;
  border: 5px solid gray;
  margin: 10px;
+}
+#mf {
+  float: right;
+  max-width: 500px;
+  max-height: 500px;
+  min-height: 500px;
+  min-width: 500px;
 }
