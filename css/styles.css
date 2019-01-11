@@ -37,3 +37,7 @@ a:hover {
   font-family: cursive;
   font-weight: bold;
 }
+#rd {
+  max-width: 2090px;
+  max-height: 2090px;
+}
