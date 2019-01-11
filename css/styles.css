@@ -1,6 +1,6 @@
 body {
   color: grey;
-  background-color: rgba(0,0,0,0.2)
+  background-color: rgba(0,0,0,0.1575)
 }
 .banner {
   text-align: center;
@@ -14,4 +14,14 @@ a:visited{
 }
 a:hover {
   color: maroon;
+}
+.bgd {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
+.des {
+  color: rgba(0,0,0,0.09);
+  text-shadow: 1px 1px black;
+  text-align: center;
 }
