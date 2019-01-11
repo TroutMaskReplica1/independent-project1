@@ -41,3 +41,9 @@ a:hover {
   max-width: 2090px;
   max-height: 2090px;
 }
+div {
+  width: 1575px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
