@@ -7,13 +7,13 @@ body {
   text-shadow: 1px 1px black;
 }
 a:link {
-  color: pink;
+  color: black;
 }
 a:visited{
-  color: salmon;
+  color: darkblue;
 }
 a:hover {
-  color: maroon;
+  color: blue;
 }
 .bgd {
   color: black;
